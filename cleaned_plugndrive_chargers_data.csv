@@ -1,0 +1,217 @@
+model,make,model_variant,price,amps,form_factor,cord_length,home_outlet,plug_types,wifi,warranty,safe_outdoors,made_in_america,has_discount,certifications,volts_ac,kw_ac
+HCS-40,Enphase,,732,32.0,Wall mounted,25,Hardwired,J1772,False,3,True,True,False,"cETL, Energy Star, ETL",240.0,7.7
+HCS-40,Enphase,P,648,32.0,Wall mounted,25,"6-50,14-50",J1772,False,3,True,True,False,"cETL, Energy Star, ETL",240.0,7.7
+LCS-20,Enphase,P,336,16.0,Wall mounted,25,"6-50, 14-30, 14-50",J1772,False,3,True,True,False,"cETL, cUL, Energy Star, ETL, UL",240.0,3.8
+HCS-50,Enphase,,809,40.0,Wall mounted,25,Hardwired,J1772,False,3,True,True,False,"cETL, Energy Star, ETL",240.0,9.6
+HCS-60,Enphase,,1099,48.0,Wall mounted,25,Hardwired,J1772,False,3,True,True,False,"cETL, Energy Star, ETL",240.0,11.5
+VersiCharge,Siemens,VC30GRYU,1094,30.0,Wall mounted,20,6-50,J1772,False,3,True,False,False,UL,240.0,7.2
+EV AC,Delta,30A 18' Networked,960,30.0,Wall mounted,18,Hardwired,J1772,True,3,False,False,False,"cUL, UL",240.0,7.2
+Wall Wattz,WattZilla,40-AMP,999,40.0,Wall mounted,25,"14-50, Hardwired",J1772,False,1,True,True,False,UL,240.0,9.6
+Wall Wattz,WattZilla,48-AMP,1249,48.0,Wall mounted,25,"14-60, Hardwired",J1772,False,1,True,True,False,UL,240.0,11.5
+Black Mamba,WattZilla,40-AMP,1099,40.0,Portable,25,14-50,J1772,False,1,False,True,False,"cUL, UL",240.0,9.6
+Black Mamba,WattZilla,48-AMP,1199,48.0,Portable,25,14-60,J1772,False,1,False,True,False,"cUL, UL",240.0,11.5
+Home X5,FLO,,995,30.0,Wall mounted,25,Hardwired,J1772,True,5,True,False,False,"CSA, Energy Star, UL",240.0,7.2
+Home G5,FLO,,795,30.0,Wall mounted,25,Hardwired,J1772,False,5,True,False,False,"CSA, Energy Star, UL",240.0,7.2
+HCS-80,Enphase,,1176,64.0,Wall mounted,25,Hardwired,J1772,False,3,True,True,False,"cETL, Energy Star, ETL",240.0,15.4
+HCS-D40,Enphase,,1484,32.0,Wall mounted,25,Hardwired,J1772,False,3,True,True,False,"cETL, Energy Star, ETL",240.0,7.7
+HCS-D40,Enphase,P,1506,32.0,Wall mounted,25,"6-50, 14-50",J1772,False,3,True,True,False,"cETL, Energy Star, ETL",240.0,7.7
+VersiCharge,Siemens,VCSG30GRYUW,1199,30.0,Wall mounted,20,6-50,J1772,True,3,True,False,False,UL,240.0,7.2
+TurboDX,Webasto,16 Amp 15',359,16.0,Wall mounted,15,Hardwired,J1772,False,3,True,False,False,"cUL, UL",240.0,3.8
+TurboDX,Webasto,16 Amp 25',379,16.0,Wall mounted,25,Hardwired,J1772,False,3,True,False,False,"cUL, UL",240.0,3.8
+EV400 Series,Bosch,32A / 25',921,32.0,Wall mounted,25,"6-50, Hardwired",J1772,False,3,True,True,False,UL,264.0,7.6
+Home Flex,ChargePoint,,549,50.0,Wall mounted,23,"6-50, 14-50, Hardwired",J1772,True,3,True,False,False,"cUL, Energy Star, UL",240.0,11.5
+Wall Wattz,WattZilla,75-AMP,1799,75.0,Wall mounted,25,"14-60, Hardwired",J1772,False,1,True,True,False,"Energy Star, UL",240.0,18.0
+DUO,WattZilla,,4195,80.0,Wall mounted,25,Hardwired,J1772,False,3,True,True,False,"cUL, Energy Star, UL",240.0,19.2
+UNO,WattZilla,,2195,80.0,Wall mounted,25,Hardwired,J1772,False,3,True,True,False,"cUL, Energy Star, UL",240.0,19.2
+TurboDX,Webasto,32 Amp 15',539,32.0,Wall mounted,15,Hardwired,J1772,False,3,True,False,False,"cUL, Energy Star, UL",240.0,7.6
+EV AC,Delta,30A 25' Networked,1025,30.0,Wall mounted,25,Hardwired,J1772,True,3,False,False,False,"cUL, UL",240.0,7.2
+EV AC,Delta,40A 25' Networked,1135,40.0,Wall mounted,25,Hardwired,J1772,True,3,False,False,False,"cUL, UL",240.0,9.6
+HCS-D50,Enphase,,1627,40.0,Wall mounted,25,Hardwired,J1772,False,3,True,True,False,"cETL, Energy Star, ETL",240.0,9.6
+Energy,PowerCharge,18',599,32.0,Wall mounted,18,"6-50, Hardwired",J1772,False,3,True,False,False,"cUL, UL",240.0,7.6
+Wall Universal Connector,Tesla,24',450,48.0,Wall mounted,24,Hardwired,"Tesla,NACS",True,4,True,False,False,"cUL, Energy Star, UL",240.0,11.5
+Pulsar Plus,Wallbox,40A,649,40.0,Wall mounted,25,"14-50, Hardwired",J1772,True,3,True,False,False,"cUL, UL",240.0,9.6
+EVSE,EvoCharge,18',599,32.0,Wall mounted,18,"6-50, Hardwired",J1772,False,3,True,True,False,"cUL, UL",240.0,7.7
+EVSE,EvoCharge,25',599,32.0,Wall mounted,25,"6-50, Hardwired",J1772,False,3,True,True,False,"cUL, UL",240.0,7.7
+iEVSE,EvoCharge,18',659,32.0,Wall mounted,18,"6-50, Hardwired",J1772,True,3,True,True,False,"cUL, UL",240.0,7.7
+iEVSE,EvoCharge,25',599,32.0,Wall mounted,25,"6-50, Hardwired",J1772,True,3,True,True,False,"cUL, UL",240.0,7.7
+SmartElek,Smartenit,,499,30.0,Portable,23,6-50,J1772,True,3,True,False,False,"CSA, ETL, UL",240.0,7.2
+AW Series,Phihong,LU770,1078,32.0,Wall mounted,16,Hardwired,J1772,True,1,True,False,False,"cUL, FCC, UL",240.0,7.7
+Energy,PowerCharge,25',609,32.0,Wall mounted,25,"6-50, Hardwired",J1772,False,3,True,False,False,"cUL, UL",240.0,7.6
+Connected Charge Station,Ford,48A,799,48.0,Wall mounted,20,Hardwired,J1772,True,3,True,False,False,ETL,240.0,11.5
+CSE1,Cyber Switching,10kW w/ WiFi,1220,40.0,Wall mounted,18,Hardwired,J1772,True,0,True,False,False,"Energy Star, ETL, UL",240.0,10.0
+CSE1,Cyber Switching,11.5kW w/ WiFi,1220,48.0,Wall mounted,18,Hardwired,J1772,True,0,True,False,False,"Energy Star, ETL, UL",240.0,11.5
+CSE1,Cyber Switching,10kW w/ 4G,1220,40.0,Wall mounted,18,Hardwired,J1772,False,0,True,False,False,"Energy Star, ETL, UL",240.0,10.0
+CSE1,Cyber Switching,11.5kW w/ 4G,1220,48.0,Wall mounted,18,Hardwired,J1772,False,0,True,False,False,"Energy Star, ETL, UL",240.0,11.5
+EV700,TurnOnGreen,S18-NEMA 6-50,599,32.0,Wall mounted,18,6-50,J1772,True,3,True,False,False,"Energy Star, TUV",240.0,7.6
+EV700,TurnOnGreen,S18-NEMA 14-50,599,32.0,Wall mounted,18,14-50,J1772,True,3,True,False,False,"Energy Star, TUV",240.0,7.6
+Smart Home EV Charger,Emporia,,399,48.0,Wall mounted,24,"14-50, Hardwired",J1772,True,3,True,False,False,"cUL, Energy Star, NEC, UL",240.0,11.5
+Booster 2,J+,,467,40.0,Portable,25,"6-20, 6-50, 14-30, 14-50",J1772,False,0,True,False,False,UL,240.0,9.6
+Mobile Connector,Tesla,,250,32.0,Portable,20,14-50,"Tesla,NACS",False,4,False,False,False,UL,240.0,7.6
+AC-5500G,PowerPump,,1190,40.0,Wall mounted,25,14-50,J1772,True,2,True,True,False,"Energy Star, UL",240.0,10.0
+AC-5500,PowerPump,,995,40.0,Wall mounted,25,14-50,J1772,True,2,True,True,False,"Energy Star, UL",240.0,10.0
+Terra AC,ABB,W7-P8-R-C-0,713,32.0,Wall mounted,25,Hardwired,J1772,True,2,True,False,False,"CE, Energy Star, UL",240.0,7.7
+Terra AC,ABB,W7-P8-R-D-0,713,32.0,Wall mounted,25,Hardwired,J1772,True,2,True,False,False,"CE, Energy Star, UL",240.0,7.7
+Terra AC,ABB,W7-P8-R-CD-0,613,32.0,Wall mounted,25,Hardwired,J1772,True,2,True,False,False,"CE, Energy Star, UL",240.0,7.7
+Terra AC,ABB,W7-P8-RD-MD-0,614,32.0,Wall mounted,25,Hardwired,J1772,True,2,True,False,False,"CE, Energy Star, UL",240.0,7.7
+Terra AC,ABB,W7-P8-RD-MD-0,790,32.0,Wall mounted,25,Hardwired,J1772,True,2,True,False,False,"CE, Energy Star, UL",240.0,7.7
+Level 2 EV Charger,PRIMECOM,16A 30',299,16.0,Wall mounted,30,Hardwired,J1772,False,12,True,True,False,"CE, TUV, UL",240.0,3.8
+Level 2 EV Charger Adjustable Amps,PRIMECOM,32A 30',549,32.0,Wall mounted,30,"6-50,10-50,14-50",J1772,False,12,True,True,False,"CE, TUV, UL",240.0,7.2
+Level 2 Smart EV Charger,PRIMECOM,32A 25',489,32.0,Wall mounted,25,"6-50,10-50,14-50,Hardwired",J1772,False,12,True,True,False,"CE, TUV",240.0,7.2
+Level 2 EV Charger,PRIMECOM,40A 30',599,40.0,Wall mounted,30,"6-50,10-50,14-50",J1772,False,12,True,True,False,"CE, TUV",240.0,9.6
+Level 2 Smart EV Charger,PRIMECOM,40A 25',549,40.0,Wall mounted,25,"6-50,10-50,14-50,Hardwired",J1772,False,12,True,True,False,"CE, TUV",240.0,9.6
+Level 2 EV Charger Adjustable Amps,PRIMECOM,50A 25',799,50.0,Wall mounted,25,"6-50,10-50,14-50,Hardwired",J1772,False,12,True,True,False,"CE, TUV, UL",240.0,12.0
+"Electric Vehicle Charger, 30A",Hubbell Wiring Device Kellems,,799,30.0,Wall mounted,20,Hardwired,J1772,False,0,False,True,False,"cUL, UL",240.0,7.2
+AxFAST 32A,Accell,,549,32.0,Portable,25,14-50,J1772,False,2,True,False,False,"FCC, UL",240.0,7.68
+AxFAST 16A,Accell,,290,16.0,Portable,25,6-20,J1772,False,1,True,False,False,"FCC, UL",240.0,3.84
+7.2kW Portable Level 1/Level 2 AC Charger,Lightning eMotors,,550,32.0,Portable,25,"5-15,14-50",J1772,False,2,True,False,False,"cUL, ETL, FCC, NEC, UL",240.0,7.2
+EV Flex,Loop,,4150,32.0,Wall mounted,25,Hardwired,J1772,True,3,True,False,False,"Energy Star, FCC, UL",240.0,7.68
+Wall Charger,Rivian,,800,48.0,Wall mounted,25,Hardwired,J1772,True,5,True,False,False,"Energy Star, FCC, UL",240.0,11.5
+Pulsar Plus,Wallbox,40A,649,40.0,Wall mounted,25,"14-50, Hardwired",J1772,True,3,True,False,False,"cUL, UL",240.0,9.6
+Charge Station Pro,Sunrun/Ford,48A,799,48.0,Wall mounted,25,Hardwired,J1772,True,3,True,False,False,UL,240.0,11.0
+Charge Station Pro,Sunrun/Ford,80A,1310,80.0,Wall mounted,25,Hardwired,J1772,True,3,True,False,False,UL,240.0,19.2
+AWLU770,Mid-Cour,,2032,32.0,Wall mounted,13,Hardwired,J1772,True,0,True,False,False,"FCC, UL",240.0,7.7
+AW8U770,Mid-Cour,,2032,32.0,Wall mounted,13,14-50,J1772,True,0,True,False,False,"FCC, UL",240.0,7.7
+AW9U770,Mid-Cour,,2032,32.0,Wall mounted,13,6-50,J1772,True,0,True,False,False,"FCC, UL",240.0,7.7
+Green Motion Smart Breaker Charger,Eaton,Direct Connect Kit,813,32.0,Wall mounted,25,Hardwired,J1772,True,3,False,False,False,"CSA, Energy Star, FCC, UL",240.0,7.7
+Green Motion Building,Eaton,,882,40.0,Wall mounted,25,Hardwired,J1772,True,3,True,False,False,"Energy Star, ETL, FCC",240.0,9.6
+32A Basic,LITEON,,550,32.0,Wall mounted,25,6-50,J1772,False,0,True,True,False,UL,240.0,7.6
+32A Smart,LITEON,,550,32.0,Wall mounted,25,6-50,J1772,True,0,True,True,False,UL,240.0,7.6
+32A Intelligent,LITEON,,550,32.0,Wall mounted,25,Hardwired,J1772,True,0,True,True,False,UL,240.0,7.6
+40A Basic,LITEON,,1099,40.0,Wall mounted,25,6-50,J1772,False,0,True,True,False,UL,240.0,9.6
+40A Smart,LITEON,,1099,40.0,Wall mounted,25,6-50,J1772,True,0,True,True,False,UL,240.0,9.6
+40A Intelligent,LITEON,,1099,40.0,Wall mounted,25,Hardwired,J1772,True,0,True,True,False,UL,240.0,9.6
+48A Basic,LITEON,,1350,48.0,Wall mounted,25,6-50,J1772,False,0,True,True,False,UL,240.0,11.5
+48A Smart,LITEON,,1350,48.0,Wall mounted,25,6-50,J1772,True,0,True,True,False,UL,240.0,11.5
+48A Intelligent,LITEON,,1350,48.0,Wall mounted,25,Hardwired,J1772,True,0,True,True,False,UL,240.0,11.5
+80A Basic,LITEON,,5148,80.0,Wall mounted,25,6-50,J1772,False,0,True,True,False,UL,240.0,19.2
+80A Smart,LITEON,,5148,80.0,Wall mounted,25,6-50,J1772,True,0,True,True,False,UL,240.0,19.2
+80A Intelligent,LITEON,,5148,80.0,Wall mounted,25,Hardwired,J1772,True,0,True,True,False,UL,240.0,19.2
+ICE-40 AC,InCharge,,1099,40.0,Wall mounted,25,14-50,J1772,True,0,True,True,False,"TUV, UL",240.0,9.6
+ICE-80 AC,InCharge,,2627,80.0,Wall mounted,25,14-50,J1772,True,0,True,True,False,UL,240.0,19.2
+BS-PCD020,BESEN,Portable,749,16.0,Portable,16,6-20,J1772,False,1,True,False,False,"CE, CSA, TUV",220.0,3.6
+BS-PCD030,BESEN,Portable,799,16.0,Portable,16,6-20,J1772,False,1,True,False,False,"CE, TUV",220.0,3.6
+BS-PCD040,BESEN,Portable,999,40.0,Portable,16,14-50,J1772,False,1,True,False,False,"CE, ETL, FCC, Rohs",220.0,8.8
+BS-PCD050,BESEN,Portable,1299,32.0,Portable,16,Hardwired,"J1772,Mennekes",False,1,True,False,False,"CE, Rohs",220.0,16.0
+PEVC2107,Piwin,32A 22kW Wall mount 2107,353,32.0,Wall mounted,16,Hardwired,J1772,True,3,True,False,False,"CE, FCC, SGS",220.0,22.0
+PEVC2107,Piwin,16A 11kW Wall mount 2107,311,16.0,Wall mounted,16,Hardwired,J1772,True,3,True,False,False,"CE, FCC, SGS",220.0,11.0
+PEVC2107,Piwin,32A 7kW Wall mount 2107,308,32.0,Wall mounted,16,Hardwired,J1772,True,3,True,False,False,"CE, FCC, SGS",220.0,7.0
+PEVC2201,Piwin,16A 11kW Wall mount 2201,486,16.0,Wall mounted,16,Hardwired,J1772,True,3,True,False,False,"CE, FCC, SGS",400.0,11.0
+PEVC2201,Piwin,32A 22kW Wall mount 2201,536,32.0,Wall mounted,16,Hardwired,J1772,True,3,True,False,False,"CE, FCC, SGS",400.0,22.0
+Portable EV Charger,Splitvolt,NEMA 10-30 26ft,0,24.0,Portable,26,10-30,J1772,False,1,False,False,False,cETL,240.0,5.76
+Portable EV Charger,Splitvolt,NEMA 14-30 16ft,290,24.0,Portable,16,14-30,J1772,False,1,False,False,False,cETL,240.0,5.76
+Portable EV Charger,Splitvolt,NEMA 14-30 26ft,310,24.0,Portable,26,14-30,J1772,False,1,False,False,False,cETL,240.0,5.76
+Portable EV Charger,Splitvolt,NEMA 14-50 16ft,280,40.0,Portable,16,14-50,J1772,False,1,False,False,False,cETL,240.0,9.6
+Portable EV Charger,Splitvolt,NEMA 14-50 26ft,310,40.0,Portable,26,14-50,J1772,False,1,False,False,False,cETL,240.0,9.6
+HQ 200,Blink,,699,50.0,Wall mounted,23,Hardwired,J1772,True,1,True,True,False,"CSA, NEC, RoHS, UL",240.0,12.0
+BS20-Basic,BESEN,1 Phase,249,32.0,Wall mounted,20,Hardwired,J1772,False,1,True,False,False,"CE, CSA, ETL, FCC, RoHS, UL",220.0,7.2
+BS20-Basic,BESEN,3 Phase,259,32.0,Wall mounted,20,Hardwired,J1772,False,1,True,False,False,"CE, CSA, ETL, FCC, RoHS, UL",220.0,22.0
+BS20-APP,BESEN,1 Phase,249,32.0,Wall mounted,20,Hardwired,J1772,False,1,True,False,False,"CE, CSA, ETL, FCC, RoHS",220.0,7.2
+BS20-APP,BESEN,3 Phase,259,32.0,Wall mounted,20,Hardwired,J1772,False,1,True,False,False,"CE, CSA, ETL, FCC, RoHS",220.0,22.0
+Morec EV Sae J1772 40A with APP Supports,Morec,40A 9.6kW,500,40.0,Wall mounted,20,14-50,J1772,True,2,True,False,False,"CE, CSA",220.0,9.6
+Morec Sae J1772 AC Protable Ev Charger,Morec,40A,319,40.0,Portable,20,14-50,J1772,False,2,True,False,False,CE,220.0,9.6
+Home Flex,ChargePoint,14-50 6-50,699,50.0,Wall mounted,23,"6-50, 14-50",J1772,True,3,True,True,False,"cUL, Energy Star, UL",240.0,12.0
+EV Charger,Morec,16/24/32A 7.2kW,220,32.0,Wall mounted,20,14-50,J1772,False,2,True,False,False,"CE, CSA",240.0,7.2
+EV Charger,Morec,16A 3.6kW,160,16.0,Wall mounted,20,6-20,J1772,False,2,True,False,False,"CE, CSA",240.0,3.6
+MUSTART Portable EV Charger,MUSTART,40A 9.6kW,319,40.0,Portable,25,14-50,J1772,False,2,True,True,False,UL,240.0,9.6
+MUSTART Portable EV Charger,MUSTART,16/25/40 14-50,329,40.0,Portable,25,14-50,J1772,False,2,True,True,False,UL,240.0,9.6
+TRAVELMASTER,MUSTART,TRAVELMASTER GEN 2,379,32.0,Portable,25,14-50,J1772,False,2,True,True,False,ETL,240.0,7.68
+MUSTART - Level 2 Smart EV Charger,MUSTART,SMART APP,379,40.0,Wall mounted,25,14-50,J1772,True,2,True,True,False,ETL,240.0,7.68
+MUSTART - Level 2 Smart EV Charger,MUSTART,16/25/32 7.68kW,349,32.0,Wall mounted,25,14-50,J1772,True,2,True,True,False,ETL,240.0,7.68
+MUSTART Portable EV Charger,MUSTART,15/25/32 14-50,299,32.0,Portable,25,14-50,J1772,False,2,True,True,False,ETL,240.0,7.68
+WB-SP2-AC2.0,Vevor,,172,32.0,Portable,25,14-50,J1772,False,1,True,False,False,"CE, RoHS",240.0,7.68
+EV-A01-US01,Vevor,,501,48.0,Wall mounted,24,14-50,J1772,True,1,True,False,False,"Energy star, ETL",240.0,11.5
+EV300,Bosch,,966,32.0,Wall mounted,25,Hardwired,J1772,False,3,True,False,False,UL,240.0,7.6
+Portable EV Charger,Couplago,9.6kW,499,40.0,Portable,27,14-50,J1772,False,1,True,True,False,UL,240.0,9.6
+Portable EV Charger,Couplago,7.6kW Adjustable amperage,286,32.0,Portable,25,14-50,J1772,False,1,True,True,False,UL,240.0,7.6
+Portable EV Charger,Webasto,,549,32.0,Portable,20,14-50,J1772,True,3,True,False,False,"ETL, UL",240.0,7.7
+32A,YEAHCO,,600,40.0,Portable,21,14-50,J1772,True,3,True,True,False,UL,240.0,10.0
+48A,Emporia Energy,,399,48.0,Wall mounted,24,14-50,J1772,True,3,True,True,False,"Energy Star, UL",240.0,11.5
+32A,OMT,,230,32.0,Portable,25,14-50,J1772,False,1,True,True,False,"CE, TUV",240.0,7.2
+Wall Charger,EV Gear,,330,40.0,Wall mounted,26,14-50,J1772,True,3,True,False,False,"CE, TUV",240.0,9.7
+iEVSE,EvoCharge,40A,669,40.0,Wall mounted,25,"6-50, Hardwired",J1772,True,3,True,True,False,"cUL, UL",240.0,9.6
+EVC04-AC7,Vestel,,249,32.0,Pedestal,16,Hardwired,J1772,True,2,True,False,False,"CE, REACH, RoHS, UL",230.0,7.4
+EVC05-AC22,Vestel,,550,32.0,Cabinet,16,Hardwired,"J1772,Mennekes",True,2,True,False,False,"CE, REACH, RoHS, UL",,
+EVC10,Vestel,7.4kW,349,32.0,Pedestal,16,Hardwired,J1772,True,2,True,False,False,"CE, REACH, RoHS",230.0,7.4
+EVC10,Vestel,11kW,449,32.0,Pedestal,16,Hardwired,J1772,True,2,True,False,False,"CE, REACH, RoHS",400.0,11.0
+EVC10,Vestel,22kW,549,32.0,Pedestal,16,Hardwired,J1772,True,2,True,False,False,"CE, REACH, RoHS",400.0,22.0
+Plug-In Home,Legrand,9.6kW,475,40.0,Wall mounted,18,Hardwired,J1772,False,1,True,False,False,"cETL, Energy Star, ETL, FCC, IC, RoHS",240.0,9.6
+Spectrum GWI,Gateway International 360,EV50,799,32.0,Portable,16,Hardwired,J1772,False,3,True,True,False,UL,240.0,9.6
+Spectrum GWI,Gateway International 360,EV200,899,40.0,Wall mounted,16,Hardwired,J1772,True,3,True,True,False,"CE, cETL, Energy Star, ETL, FCC, REACH, RoHS, UL",240.0,9.6
+Spectrum GWI,Gateway International 361,EV260,999,48.0,Wall mounted,16,Hardwired,J1772,True,3,True,True,False,"cETL, Energy Star, ETL, FCC, UL",240.0,11.5
+Spectrum GWI,Gateway International 362,EV400,1099,50.0,Wall mounted,16,Hardwired,J1772,True,3,True,True,False,"CE, cETL, Energy Star, ETL, REACH, ROHS, UL",240.0,9.6
+EVC-L2-48A-L1-1-4G-D,breezeEV,,3017,48.0,Wall mounted,25,Hardwired,J1772,False,3,True,True,False,"Energy Star, ETL",240.0,11.5
+EVC-L2-P80-18-AP1,breezeEV,,4409,80.0,Wall mounted,18,Hardwired,J1772,False,5,True,True,False,"Energy Star, ETL",240.0,19.2
+EVC-L2-S48-18,breezeEV,,599,48.0,Wall mounted,18,14-50,J1772,False,3,True,True,False,"Energy Star, ETL",240.0,11.5
+EVC-L2-R40-18,breezeEV,,746,40.0,Wall mounted,18,14-50,J1772,False,3,True,True,False,"Energy Star, ETL",240.0,9.6
+EVC-L2-R48-18,breezeEV,,820,48.0,Wall mounted,18,14-50,J1772,False,3,True,True,False,"Energy Star, ETL",240.0,11.5
+SES-EVC-AC48A01HW-U-SHSB,SARIN Energy,,799,48.0,Wall mounted,25,Hardwired,J1772,True,1,True,True,False,"Energy Star, ETL",250.0,11.5
+SES-EVC-AC48A01HW-U-SHSB,SARIN Energy,,899,48.0,Pedestal,25,Hardwired,J1772,True,1,True,True,False,"Energy Star, ETL",250.0,11.5
+SES-EVC-DC120KW,SARIN Energy,,71036,,Cabinet,16,Hardwired,"CCS1,CHAdeMO",True,1,True,True,False,ETL,,
+SES-EVC-DC240KW,SARIN Energy,,144236,,Cabinet,16,Hardwired,"CCS1,CHAdeMO",True,1,True,True,False,ETL,,
+A,Zencar,16A,109,16.0,Portable,23,14-50,J1772,True,1,True,False,False,CE,230.0,3.6
+A,Zencar,32A,125,32.0,Portable,23,14-50,J1772,True,1,True,False,False,CE,230.0,7.4
+C,Zencar,16A,187,16.0,Portable,23,14-50,J1772,False,1,True,False,False,"CE, RoHS",230.0,11.0
+C,Zencar,32A,216,32.0,Portable,23,14-50,J1772,False,1,True,False,False,"CE, RoHS",230.0,22.0
+D,Zencar,3.6kW,133,32.0,Portable,23,14-50,J1772,False,1,True,False,False,CE,220.0,3.6
+D,Zencar,7.2kW,151,32.0,Portable,23,14-50,J1772,False,1,True,False,False,CE,220.0,7.2
+D,Zencar,11kW,206,32.0,Portable,23,14-50,J1772,False,1,True,False,False,CE,220.0,11.0
+D,Zencar,22kW,239,32.0,Portable,23,14-50,J1772,False,1,True,False,False,CE,230.0,22.0
+E,Zencar,3.6kW,117,16.0,Portable,23,14-50,J1772,False,1,True,False,False,CE,230.0,3.6
+E,Zencar,7.2kW,148,32.0,Portable,23,14-50,J1772,False,1,True,False,False,CE,230.0,7.2
+E,Zencar,11kW,201,16.0,Portable,23,14-50,J1772,False,1,True,False,False,CE,230.0,11.0
+E,Zencar,22kW,230,32.0,Portable,23,14-50,J1772,False,1,True,False,False,CE,230.0,22.0
+E Pro,Zencar,16A,181,16.0,Portable,23,14-50,J1772,False,1,True,False,False,CE,220.0,7.2
+E Pro,Zencar,32A,196,32.0,Portable,23,14-50,J1772,False,1,True,False,False,CE,220.0,11.0
+AXLU191001,Zerova,,1299,80.0,Wall mounted,25,Hardwired,J1772,True,1,True,False,False,"CTEP, Energy Star, FCC, UL",240.0,19.0
+EV016,3L3Y,,159,16.0,Portable,15,6-20,J1772,False,1,True,True,False,"CE, TUV, UL",240.0,3.84
+7.7kW,3L3Y,,560,32.0,Wall mounted,25,6-20,J1772,False,1,True,True,False,"CE, TUV, UL",240.0,7.7
+iFlow,AMPROAD,P9,359,40.0,Portable,25,14-50,J1772,True,1,True,False,False,UL,240.0,9.6
+16A EV Charger,Vevor,,96,16.0,Portable,25,6-20,J1772,False,1,True,False,False,"CE, UL",240.0,3.84
+24A EV Charger,Vevor,,215,24.0,Portable,25,10-30,J1772,False,1,True,False,False,"CE, UL",240.0,5.76
+WB-SC-AC1.0-16A,Vevor,,150,15.0,Portable,25,6-20,J1772,False,1,True,False,False,"CE, UL",240.0,3.84
+EV-A01-US009A,Vevor,Jun-50,430,40.0,Wall mounted,22,6-50,J1772,False,1,True,False,False,"Energy Star, ETL",240.0,9.6
+EV-A01-US009A,Vevor,14-50,463,40.0,Wall mounted,22,14-50,J1772,False,1,True,False,False,"Energy Star, ETL",240.0,9.6
+IQ 40,Enphase,,622,32.0,Wall mounted,25,Hardwired,J1772,True,5,True,True,False,"Energy Star, NEC, UL",240.0,7.7
+IQ 50,Enphase,,688,40.0,Wall mounted,25,Hardwired,J1772,True,5,True,True,False,"Energy Star, NEC, UL",240.0,9.6
+IQ 60,Enphase,,1099,48.0,Wall mounted,25,Hardwired,J1772,True,5,True,True,False,"Energy Star, NEC, UL",240.0,11.5
+IQ 80,Enphase,,1176,64.0,Wall mounted,25,Hardwired,J1772,True,5,True,True,False,"Energy Star, NEC, UL",240.0,15.4
+Blazer,Injet,,1399,40.0,Pedestal,16,Hardwired,J1772,True,2,True,False,False,"Energy Star, FCC, UL",240.0,10.0
+Blazer,Injet,,1499,40.0,Wall mounted,17,Hardwired,J1772,True,2,True,False,False,"Energy Star, FCC, UL",240.0,10.0
+Nexus,Injet,Floor Mount,1499,40.0,Pedestal,16,14-50,J1772,True,1,True,False,False,"Energy Star, FCC, UL",240.0,10.0
+Nexus,Injet,Wall Mount,1599,40.0,Wall mounted,16,14-50,J1772,True,1,True,False,False,"Energy Star, FCC, UL",240.0,10.0
+Vision,Injet,Floor Mount,1499,80.0,Pedestal,18,Hardwired,J1772,True,1,True,False,False,"Energy Star, ETL, FCC",240.0,19.2
+Vision,Injet,Wall Mount,1399,80.0,Wall mounted,18,Hardwired,J1772,True,1,True,False,False,"Energy Star, ETL, FCC",240.0,19.2
+Swift,Injet,Wall Mount,1899,32.0,Wall mounted,18,Hardwired,J1772,True,1,True,False,False,"CE, REACH, RoHS",400.0,22.0
+Swift,Injet,Pole Mount,2100,32.0,Pedestal,18,Hardwired,J1772,True,1,True,False,False,"CE, REACH, RoHS",400.0,22.0
+Swift,Injet,Pole Mount,2100,32.0,Pedestal,18,Hardwired,J1772,True,1,True,False,False,"CE, REACH, RoHS",240.0,7.0
+Swift,Injet,Wall Mount,1499,32.0,Wall mounted,18,Hardwired,J1772,True,1,True,False,False,"CE, REACH, RoHS",240.0,7.0
+Sonic Series 22kW,Injet,22kW Wall Mounted,1899,32.0,Wall mounted,18,Hardwired,J1772,True,1,True,False,False,"CE, RoHS, TUV",230.0,22.0
+Sonic Series 11kW,Injet,11kW Wall Mounted,1799,16.0,Wall mounted,18,Hardwired,J1772,True,1,True,False,False,"CE, RoHS, TUV",400.0,11.0
+Sonic Series 7kW,Injet,7kW Wall Mounted,1499,32.0,Wall mounted,18,Hardwired,J1772,True,1,True,False,False,"CE, RoHS, TUV",230.0,7.0
+EV320,Leviton,,649,32.0,Wall mounted,18,Hardwired,J1772,False,2,True,False,False,"CSA, Energy Star, UL",240.0,7.6
+EV320,Leviton,,649,32.0,Wall mounted,18,Hardwired,J1772,False,2,True,False,False,"CSA, Energy Star, UL",240.0,7.6
+EV32W,Leviton,,749,32.0,Wall mounted,18,Hardwired,J1772,True,2,True,False,False,"CSA, Energy Star, UL",240.0,7.6
+IQ 40 P,Enphase,Wall Mounted,622,32.0,Wall mounted,25,Hardwired,J1772,True,5,True,True,False,"cETL, CSA, Energy Star, ETL, FCC, NEC, UL",240.0,7.7
+IQ 50 P,Enphase,Wall Mounted,688,40.0,Wall mounted,25,Hardwired,J1772,True,5,True,True,False,"cETL, CSA, Energy Star, ETL, FCC, NEC, UL",240.0,9.6
+HCS 50 P,Enphase,Wall Mounted,809,40.0,Wall mounted,25,Hardwired,J1772,False,5,True,True,False,"cETL, Energy Star, ETL",240.0,9.6
+Pulsar Max,Wallbox,,1218,32.0,Wall mounted,25,Hardwired,J1772,True,3,True,False,False,UL,400.0,22.0
+Commander 2S,Wallbox,,1371,32.0,Wall mounted,16,Hardwired,J1772,True,3,True,False,False,"CE, IEC",400.0,22.0
+Portable,Rivian,,400,32.0,Portable,18,"5-15,14-50",J1772,False,1,True,True,False,Energy Star,240.0,7.6
+R1T,Rivian,,229,40.0,Portable,25,14-50,J1772,False,1,True,True,False,UL,240.0,9.6
+NOVO,Atess,EVA-07D-SE/PE,1234,32.0,Pedestal,16,Hardwired,J1772,True,1,True,False,False,"CE, RCM",230.0,7.3
+NOVO,Atess,EVA-11D-SE/PE,1412,16.0,Pedestal,16,Hardwired,J1772,True,1,True,False,False,"CE, RCM",400.0,11.0
+NOVO,Atess,EVA-22D-SE/PE,1592,32.0,Pedestal,16,Hardwired,J1772,True,1,True,False,False,"CE, RCM",400.0,22.0
+NOVO,Atess,EVA-07D-SEW/PEW,1324,32.0,Wall mounted,16,Hardwired,J1772,True,1,True,False,False,"CE,RCM",230.0,7.3
+NOVO,Atess,EVA-22D-SEW/PEW,1392,32.0,Wall mounted,16,Hardwired,J1772,True,1,True,False,False,"CE,RCM",400.0,22.0
+EV-550,Gateway International 360,W,3675,80.0,Pedestal,18,Hardwired,J1772,True,3,True,True,False,"UL,FCC",240.0,19.2
+EV-550,Gateway International 360,C,3675,80.0,Pedestal,18,Hardwired,J1772,False,3,True,True,False,"UL,FCC",240.0,19.2
+EV-500,Gateway International 360,W,2361,48.0,Pedestal,18,Hardwired,J1772,True,3,True,True,False,"UL,FCC",240.0,11.5
+EV-500,Gateway International 360,C,2361,48.0,Pedestal,18,Hardwired,J1772,False,3,True,True,False,"UL,FCC",240.0,11.5
+Residential Series,ZEF Energy,ZEFNET-40-U,2625,32.0,Wall mounted,25,Hardwired,J1772,True,5,True,True,False,"cUL,UL",240.0,7.7
+Residential Series,ZEF Energy,ZEFNET-60-U,3015,48.0,Wall mounted,25,Hardwired,J1772,True,5,True,True,False,"cUL,UL",240.0,11.5
+Residential Series,ZEF Energy,ZEFNET-80-U,3245,64.0,Wall mounted,25,Hardwired,J1772,True,5,True,True,False,"cUL,UL",240.0,15.4
+Residential Series,ZEF Energy,ZEFNET-100-C,4274,80.0,Wall mounted,25,Hardwired,J1772,True,5,True,True,False,"cUL,UL",240.0,19.2
+Pro Series,ZEF Energy,ZEFNET-40-PRO,9075,32.0,Wall mounted,23,Hardwired,J1772,True,5,True,True,False,"cETL,ETL",240.0,15.4
+Pro Series,ZEF Energy,ZEFNET-60-PRO,9855,48.0,Wall mounted,23,Hardwired,J1772,True,5,True,True,False,"cETL,ETL",240.0,23.0
+Pro Series,ZEF Energy,ZEFNET-80-PRO,10325,64.0,Wall mounted,23,Hardwired,J1772,True,5,True,True,False,"cETL,ETL",240.0,30.8
+Power K-Series,ZEF Energy,Movable Charger,28336,,Portable,23,Hardwired,"CCS1,CHAdeMO",True,5,True,True,False,UL,,

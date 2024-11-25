@@ -1,0 +1,37 @@
+=== EV Market Analysis Statistical Summary ===
+
+1. Price Statistics by Fuel Type:
+      count      mean       std    min   median     max
+fuel                                                   
+BEV     120  76387.32  35331.43  39995  64925.0  327300
+PHEV     44  72200.39  40299.86  38595  61562.5  259000
+
+2. Range Statistics for BEVs:
+count    120.00
+mean     446.88
+std       92.96
+min      161.00
+25%      402.00
+50%      454.00
+75%      500.00
+max      724.00
+Name: electric_range, dtype: float64
+
+3. Correlation Matrix:
+                      msrp  electric_range  battery_capacity  \
+msrp                 1.000           0.417             0.498   
+electric_range       0.417           1.000             0.681   
+battery_capacity     0.498           0.681             1.000   
+electric_efficiency  0.396           0.189             0.781   
+
+                     electric_efficiency  
+msrp                               0.396  
+electric_range                     0.189  
+battery_capacity                   0.781  
+electric_efficiency                1.000  
+
+4. Charger Statistics:
+       count     mean       std  min  median     max
+wifi                                                
+False    102   780.06    894.09    0   549.0    5148
+True     114  3518.55  15103.84  109   997.0  144236
