@@ -1,1 +1,2 @@
-# BAN240
+# BAN240 - Capstone Project
+## Automobile Industry Group
