@@ -1,0 +1,71 @@
+EV Charging Infrastructure Analysis Summary
+=========================================
+
+1. Overall Statistics:
+Total number of charging stations: 14620
+Number of unique cities: 2222
+Date range: 2005 to 2024
+
+2. Provincial Distribution:
+State
+ON    4925
+QC    4808
+BC    2644
+AB     820
+MB     318
+NB     274
+NS     272
+SK     185
+PE     180
+NL     146
+YT      41
+NT       7
+
+Average stations per city: 6.58
+
+3. Connector Type Distribution:
+EV Connector Types
+J1772         12047
+J1772COMBO     2266
+CHADEMO        2041
+TESLA           878
+NEMA520           8
+NEMA515           4
+NEMA1450          2
+
+4. Network Distribution:
+EV Network
+ChargePoint Network        3959
+FLO                        2969
+Circuit électrique         2716
+Non-Networked              2600
+Tesla Destination           604
+SWTCH                       538
+Tesla                       231
+CHARGELAB                   207
+BCHYDRO                     150
+eCharge Network             119
+IVY                          92
+EV Connect                   80
+ON_THE_RUN_EV                57
+PETROCAN                     57
+Electrify Canada             44
+OpConnect                    43
+SHELL_RECHARGE               29
+Hwisel                       26
+COUCHE_TARD                  26
+EVGATEWAY                    17
+FORD_CHARGE                  11
+JULE                          9
+7CHARGE                       7
+AMPUP                         6
+TURNONGREEN                   4
+Sun Country Highway           4
+HONEY_BADGER                  3
+EVBOLT                        3
+AddÉnergie Technologies       2
+CHARGEUP                      2
+NOODOE                        1
+CIRCLE_K                      1
+ZEFNET                        1
+RED_E                         1

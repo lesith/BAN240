@@ -1,0 +1,38 @@
+=== EV Market Analysis Summary ===
+
+1. Price Statistics:
+count      4672.000000
+mean      63644.089897
+std       36183.470582
+min           1.000000
+25%       42889.000000
+50%       59561.500000
+75%       75907.500000
+max      599995.000000
+Name: price_clean, dtype: float64
+
+2. Age Statistics:
+count    4624.000000
+mean        2.016652
+std        41.734396
+min        -1.000000
+25%         0.000000
+50%         0.000000
+75%         1.000000
+max      2015.000000
+Name: age, dtype: float64
+
+3. Mileage Statistics:
+count      4860.000000
+mean      22138.620165
+std       41121.067901
+min           0.000000
+25%          12.000000
+50%          90.000000
+75%       27764.250000
+max      315650.000000
+Name: mileage_clean, dtype: float64
+
+4. Model Performance:
+R-squared: 0.166
+RMSE: 37494.375
